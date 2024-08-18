@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f5f7fa;
+    background: linear-gradient(to bottom, #008000 33.33%, #FFD700 33.33%, #FFD700 66.66%, #FF0000 66.66%);
     color: #333;
     display: flex;
     justify-content: center;
